@@ -1,4 +1,4 @@
-console.log("\n----------------------------Dogs Exercise Output---------------------------------\n ")
+console.log("\nv---------------------------Dogs Exercise Output--------------------------------v\n ")
 
 // Dogs ---------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ console.log(`Look, a cat! ${snowy.name} barks: ${snowy.bark()}`);
 
 
 
-
+console.log("\nv---------------------------Character Inventory Exercise Output--------------------------------v\n ")
 
 // Character inventory --------------------------------------------------------------------------------------------------------------------------------------
 
@@ -50,7 +50,6 @@ console.log(`Look, a cat! ${snowy.name} barks: ${snowy.bark()}`);
 //    -  Each character begins with 10 gold and 1 key
 //    -  The character description must show the inventory state
 //    -  When a character slays another character, the victim's inventory goes to its vanquisher.
-console.log("\n----------------------------Character Inventory Exercise Output---------------------------------\n ")
 
 class Character {
     
@@ -132,7 +131,7 @@ console.log(glacius.describe());
 
 
 
-console.log("\n----------------------------Account List Exercise Output---------------------------------\n ")
+console.log("\nv---------------------------Account List Exercise Output--------------------------------v\n ")
 
 // Account list
 
